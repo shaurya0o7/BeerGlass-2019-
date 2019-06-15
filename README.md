@@ -31,36 +31,17 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 
 ---
 
-# Previews
+### Previews
+<p align="center">
+<img src="https://lh3.googleusercontent.com/RXLQAfmJrid0NtQmHj4xnYXnB3chI-DeLVYgY0lfSKwUP7udGRkbNiIgJbA9D5AtVd9j=w720-h310-rw" height="350"/>
+<img src="https://lh3.googleusercontent.com/daAQJLCe9IJBeTzcedwRuZOhzpms5sVU-712RW6_TuNdr_BNVFpSmBfLBtPW7ppmwGY=w720-h310-rw" height="350"/>
+<img src="https://lh3.googleusercontent.com/vwG5RqLgf9vCQ3QS7iqGUNUPL7mHcKN1le7Kya23bFqq7D5DESdwhZyXL10kJ30wdxk=w1366-h663-rw" height="350"/>
+<img src="https://lh3.googleusercontent.com/QA1cmqZij1rUz9naYtC4HG7OMoJRbgDrRlNaLmZ315TsuWzVng0rEdlf35xkVUJfmQ=w720-h310-rw" height="350"/>
+<img src="https://lh3.googleusercontent.com/TNIy0Mn-0pYloBUr6jIGu0CyDyd93fTGxNup2OJEJkdQcHFxxSEOAZJz8lfj8LkHv4Y=w720-h310-rw"
+height="350"/>
 
-### Customizable styles
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/3.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/9.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/2.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/10.png" height="350"/>
-</p>
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/15.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/1.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/11.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/12.png" height="350"/>
-</p>
+	
 
-### Full-screen Viewer / Multiple themes
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/14.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/7.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/8.png" height="350"/>
-</p>
-
-### Credits / Settings / Muzei Settings
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/5.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/6.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/13.png" height="350"/>
-</p>
 
 ---
 
