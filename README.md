@@ -21,13 +21,13 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 <img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## Show some  :blue_heart:
+## Show some  :red_heart:
 [![GitHub stars](https://img.shields.io/github/stars/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![GitHub forks](https://img.shields.io/github/forks/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/shivamkapasia0/BeerGlass-2019-)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shivaay0o7.svg?style=social?label=Follow%20Us&style=social)](https://twitter.com/shivaay0o7)
+[![Follow on GitHub](https://img.shields.io/github/followers/shivamkapasia0.svg?style=social)](https://github.com/shivamkapasia0/BeerGlass-2019-)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shivaay0o7.svg?label=Follow&style=social)](https://twitter.com/shivaay0o7)
 
 ---
 
