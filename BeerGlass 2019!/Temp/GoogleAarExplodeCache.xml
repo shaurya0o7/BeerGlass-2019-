@@ -1,0 +1,206 @@
+<aars>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.runtime-1.0.0</aar>
+    <modificationTime>2019-05-05T19:02:18.2756336+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.customtabs-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:18.3263341+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.customtabs-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-annotations-26.1.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:19.5561264+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:19.6920562+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:19.8192202+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:19.9316439+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:20.1185956+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-26.1.0</aar>
+    <modificationTime>2019-05-05T19:02:20.2446913+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.3886362+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-base-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.5314172+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-base-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-identifier-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.6267940+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.7018581+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.7749343+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-15.0.1</aar>
+    <modificationTime>2019-05-05T19:02:20.8538923+05:30</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.skdeveloperstudios.beerglass</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a</targetAbi>
+    <gradleBuildEnabled>true</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
