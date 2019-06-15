@@ -33,7 +33,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 
 ### Previews
 <p align="center">
-<img src="https://lh3.googleusercontent.com/RXLQAfmJrid0NtQmHj4xnYXnB3chI-DeLVYgY0lfSKwUP7udGRkbNiIgJbA9D5AtVd9j=w720-h310-rw" height="350"/>
+<img src="https://lh3.googleusercontent.com/RXLQAfmJrid0NtQmHj4xnYXnB3chI-DeLVYgY0lfSKwUP7udGRkbNiIgJbA9D5AtVd9j=w720-h310-rw" height="350" width="100"/>
 <img src="https://lh3.googleusercontent.com/daAQJLCe9IJBeTzcedwRuZOhzpms5sVU-712RW6_TuNdr_BNVFpSmBfLBtPW7ppmwGY=w720-h310-rw" height="350"/>
 <img src="https://lh3.googleusercontent.com/vwG5RqLgf9vCQ3QS7iqGUNUPL7mHcKN1le7Kya23bFqq7D5DESdwhZyXL10kJ30wdxk=w1366-h663-rw" height="350"/>
 <img src="https://lh3.googleusercontent.com/QA1cmqZij1rUz9naYtC4HG7OMoJRbgDrRlNaLmZ315TsuWzVng0rEdlf35xkVUJfmQ=w720-h310-rw" height="350"/>
@@ -46,64 +46,33 @@ height="350"/>
 ---
 
 # Features:
-- Material Design dashboard.
-- License Checker.
-- Donations.
-- OneSignal notifications ready.
-- Cloud based (only) wallpapers.
-- App can work offline.
-- Categories section.
-- Favorites section.
-- Deep search (users can search wallpapers by name, author and/or collection at the same time).
-- Wallpapers can be applied and downloaded.
-- Wallpapers include a full-screen viewer with zooming capabilities and detailed info viewer.
-- [Muzei Live Wallpaper](http://muzei.co/) support.
-- Credits section.
-- Settings section with these options:
-	- Option to change app theme (Light, Dark, Amoled, Transparent, Auto-Dark, Auto-Amoled).
-	- Option to color navigation bar (Lollipop+).
-	- Option to change the columns amount in wallpapers section.
-	- Option to clear app cache.
-	- Option to change where to download wallpapers.
-	- Option to clear favorites database.
-- Tablet layouts.
-- Lots of customizations.
-- Works with Android 4.1 and newer.
+*Material Design dashboard.
+*App can work offline.
+*Free Hints for each Stage.
+*dynamic mechanism. Draw lines freely to complete levels!
+*Simple, smart and fun puzzles but can be challenging too.
+*More Levels coming soon!
+*Interesting and Real Sound Effects.
+*Keep you addictive.
 
-## Help translating
-:page_facing_up: Help making Frames available in more languages. [Click here to go to the translation site](http://j.mp/Trnsl8Frames)
-
+-
 ## Changelog
-:radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Frames/releases)
+:New Levels added!
+:Bugs Fixes
 
 ---
 
-# Including in your project
-Frames is available via JitPack, so getting it as simple as adding it as a dependency, like this:
+# How To Use?
+*Download File.
+*Imoprt In Unity.
+*remove TextMeshPro (If any error occurs!).
 
-1. Add JitPack repository to your root `build.gradle` file
-```gradle
-allprojects {
-    repositories {
-        maven { url 'https://jitpack.io' }
-    }
-}
-```
-2. Add the dependency in your project `build.gradle` file
-```gradle
-dependencies {
-    compile('com.jahirfiquitiva:Frames:{latest version}@aar') {
-        transitive = true
-    }
-}
-```
-where `{latest version}` corresponds to published version in   [![JitPack](https://jitpack.io/v/jahirfiquitiva/Frames.svg)](https://jitpack.io/#jahirfiquitiva/Frames)
-
-## How to implement
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Frames/wiki/)**
 
 ## Still need help :question:
-Just join our community and make a post. We'll help you as soon as possible. [![Telegram Chat](https://img.shields.io/badge/Telegram-Chat-0088cc.svg)](https://t.me/JFsDashSupport)
+Our Website and telegram Channel coming soon.
+
+# For Any Queries:
+Email:skdeveloperstudios0@gmail.com
 
 ---
 
@@ -142,26 +111,24 @@ If you found this app/library helpful and want to thank me, you can:
 
 # License
 
-This app is shared under the CreativeCommons Attribution-ShareAlike license.
+MIT License
 
-	Copyright © 2019 Jahir Fiquitiva
+Copyright (c) 2019 shivamkapasia0
 
-	Licensed under the CreativeCommons Attribution-ShareAlike 
-	4.0 International License. You may not use this file except in compliance 
-	with the License. You may obtain a copy of the License at
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-	   http://creativecommons.org/licenses/by-sa/4.0/legalcode
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
-
-## Library source
-
-As you may know, the [library source](https://github.com/jahirfiquitiva/Frames/tree/master) is open-source. This means that you can fork it and do your own modifications, but it has some conditions:
-
-When using the [library source](https://github.com/jahirfiquitiva/Frames/tree/master), anything from it: errors, crashes, issues, etc. including successful builds, must be done completely by yourself and under your own risk and responsibility. I **will not** provide any help/support when using the [library source](https://github.com/jahirfiquitiva/Frames/tree/master).
-
-Finally, be sure your projects comply with the [license previously mentioned](https://github.com/jahirfiquitiva/Frames#license). Otherwise I will be taking the required legal actions. I hope you understand.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
