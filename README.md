@@ -62,16 +62,16 @@ height="350"/>
 ---
 
 # How To Use?
-*Download File.
-*Imoprt In Unity.
-*remove TextMeshPro (If any error occurs!).
+- Download File.
+- Imoprt In Unity.
+- remove TextMeshPro (If any error occurs!).
 
 
 ## Still need help :question:
 Our Website and telegram Channel coming soon.
 
 # For Any Queries:
-Email:skdeveloperstudios0@gmail.com
+- Email:skdeveloperstudios0@gmail.com
 
 ---
 
