@@ -18,7 +18,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 </a>
 
 <a target="_blank" href="https://www.paypal.me/shivamkapasia">
-<img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200" height="70"/>
+<img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200" height="60"/>
 </a>
 
 ## Show some  :blue_heart:
