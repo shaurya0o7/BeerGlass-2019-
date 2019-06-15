@@ -17,8 +17,8 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 <img src="https://stela.com/images/app_badges/google-play-badge.png" width="200"/>
 </a>
 
-<a target="_blank" href="https://jahirfiquitiva.com/donate/">
-<img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
+<a target="_blank" href="https://www.paypal.me/shivamkapasia">
+<img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200" height="100"/>
 </a>
 
 ## Show some  :blue_heart:
