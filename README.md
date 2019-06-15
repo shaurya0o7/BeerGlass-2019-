@@ -5,9 +5,9 @@ Android Game Powered By Unity Engine!
 ========================================================
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![Issues](https://img.shields.io/github/issues/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
-[![Build Status](https://travis-ci.org/jahirfiquitiva/Frames.svg?branch=master)](https://travis-ci.org/jahirfiquitiva/Frames)
+
 [![GitHub License](https://img.shields.io/github/license/shivamkapasia0/BeerGlass-2019-.svg)](https://travis-ci.org/jahirfiquitiva/Frames)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/Frames/localized.svg)](http://j.mp/FramesTranslations)
+
 
 A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library to create wallpapers apps with almost-null effort.
 
