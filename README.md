@@ -34,10 +34,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 ### Previews
 <p align="center">
 <img src="https://lh3.googleusercontent.com/RXLQAfmJrid0NtQmHj4xnYXnB3chI-DeLVYgY0lfSKwUP7udGRkbNiIgJbA9D5AtVd9j=w720-h310-rw" height="350" />
-<img src="https://lh3.googleusercontent.com/daAQJLCe9IJBeTzcedwRuZOhzpms5sVU-712RW6_TuNdr_BNVFpSmBfLBtPW7ppmwGY=w720-h310-rw" height="350"/>
-<img src="https://lh3.googleusercontent.com/vwG5RqLgf9vCQ3QS7iqGUNUPL7mHcKN1le7Kya23bFqq7D5DESdwhZyXL10kJ30wdxk=w1366-h663-rw" height="350"/>
-	
-	
+<img src="https://lh3.googleusercontent.com/daAQJLCe9IJBeTzcedwRuZOhzpms5sVU-712RW6_TuNdr_BNVFpSmBfLBtPW7ppmwGY=w720-h310-rw" height="350"/>	
 <img src="https://lh3.googleusercontent.com/QA1cmqZij1rUz9naYtC4HG7OMoJRbgDrRlNaLmZ315TsuWzVng0rEdlf35xkVUJfmQ=w720-h310-rw" height="350"/>
 <img src="https://lh3.googleusercontent.com/TNIy0Mn-0pYloBUr6jIGu0CyDyd93fTGxNup2OJEJkdQcHFxxSEOAZJz8lfj8LkHv4Y=w720-h310-rw"
 height="350"/>
