@@ -26,7 +26,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 [![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
 [![GitHub watchers](https://github.com/shivamkapasia0/BeerGlass-2019-/watchers)](https://github.com/jahirfiquitiva/Frames)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
+[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 
 ---
