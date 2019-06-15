@@ -80,11 +80,11 @@ Our Website and telegram Channel coming soon.
 ### [shivam kapasia](https://play.google.com/store/apps/developer?id=Sk+Developer+Studios&hl=en)
 
 [![Follow on Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_o20Tgdwah9Dcdi4OZdJ4a_dfZs-EYQM1DyVTV1l7uUYgykwJ)](https://www.instagram.com/shivaay0o7/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shivaay0o7.svg?label=Follow&style=social)](https://twitter.com/shivaay0o7)
+
 
 If you found this app/library helpful and want to thank me, you can:
 
-<a target="_blank" href="https://jahirfiquitiva.com/donate/">
+<a target="_blank" href="https://www.paypal.me/shivamkapasia">
 <img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
