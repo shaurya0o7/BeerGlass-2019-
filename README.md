@@ -6,9 +6,9 @@ Frames
 ======
 
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
-[![JitPack](https://jitpack.io/v/com.jahirfiquitiva/Frames.svg)](https://jitpack.io/#com.jahirfiquitiva/Frames)
+[![Issues](https://img.shields.io/github/issues/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![Build Status](https://travis-ci.org/jahirfiquitiva/Frames.svg?branch=master)](https://travis-ci.org/jahirfiquitiva/Frames)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9747a594949f49b9a8146909868adfba)](https://www.codacy.com/app/jahirfiquitiva/Frames?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jahirfiquitiva/Frames&amp;utm_campaign=Badge_Grade)
+[![GitHub License](https://img.shields.io/github/license/shivamkapasia0/BeerGlass-2019-.svg)](https://travis-ci.org/jahirfiquitiva/Frames)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/Frames/localized.svg)](http://j.mp/FramesTranslations)
 
 A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library to create wallpapers apps with almost-null effort.
@@ -22,9 +22,9 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 </a>
 
 ## Show some  :blue_heart:
-[![GitHub stars](https://github.com/shivamkapasia0/BeerGlass-2019-/stargazers)](https://github.com/jahirfiquitiva/Frames)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
-[![GitHub watchers](https://github.com/shivamkapasia0/BeerGlass-2019-/watchers)](https://github.com/jahirfiquitiva/Frames)
+[![GitHub stars](https://img.shields.io/github/stars/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
+[![GitHub forks](https://img.shields.io/github/forks/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
+
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
