@@ -22,9 +22,9 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 </a>
 
 ## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Frames.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Frames)
+[![GitHub stars](https://github.com/shivamkapasia0/BeerGlass-2019-/stargazers)](https://github.com/jahirfiquitiva/Frames)
 [![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Frames.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Frames)
+[![GitHub watchers](https://github.com/shivamkapasia0/BeerGlass-2019-/watchers)](https://github.com/jahirfiquitiva/Frames)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
