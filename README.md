@@ -54,10 +54,10 @@ height="350"/>
 - Interesting and Real Sound Effects.
 - Keep you addictive.
 
--
+
 ## Changelog
-:New Levels added!
-:Bugs Fixes
+- New Levels added!
+- Bugs Fixes
 
 ---
 
@@ -77,10 +77,10 @@ Our Website and telegram Channel coming soon.
 
 # Developed by
 
-### [Jahir Fiquitiva](https://jahirfiquitiva.com/)
+### [shivam kapasia](https://play.google.com/store/apps/developer?id=Sk+Developer+Studios&hl=en)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+[![Follow on Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_o20Tgdwah9Dcdi4OZdJ4a_dfZs-EYQM1DyVTV1l7uUYgykwJ)](https://www.instagram.com/shivaay0o7/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shivaay0o7.svg?label=Follow&style=social)](https://twitter.com/shivaay0o7)
 
 If you found this app/library helpful and want to thank me, you can:
 
