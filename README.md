@@ -1,6 +1,6 @@
 # BeerGlass-2019-
 Android Game Powered By Unity Engine!
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://lh3.googleusercontent.com/xYMAwYnd9kqInKLzleE4zvxfrrgQPe_-IqxThlAqE7FlQkDqGN_uvoI_ew9gQ4BXqkwc=s180-rw" width="192" align="right" hspace="20" />
 
 Frames
 ======
