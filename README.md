@@ -5,7 +5,6 @@ Android Game Powered By Unity Engine!
 ========================================================
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![Issues](https://img.shields.io/github/issues/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
-
 [![GitHub License](https://img.shields.io/github/license/shivamkapasia0/BeerGlass-2019-.svg)](https://travis-ci.org/jahirfiquitiva/Frames)
 
 
