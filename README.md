@@ -45,14 +45,14 @@ height="350"/>
 ---
 
 # Features:
--Material Design dashboard.
--App can work offline.
--Free Hints for each Stage.
--Dynamic mechanism. Draw lines freely to complete levels!
--Simple, smart and fun puzzles but can be challenging too.
--More Levels coming soon!
--Interesting and Real Sound Effects.
--Keep you addictive.
+- Material Design dashboard.
+- App can work offline.
+- Free Hints for each Stage.
+- Dynamic mechanism. Draw lines freely to complete levels!
+- Simple, smart and fun puzzles but can be challenging too.
+- More Levels coming soon!
+- Interesting and Real Sound Effects.
+- Keep you addictive.
 
 -
 ## Changelog
