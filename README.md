@@ -27,7 +27,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/shivamkapasia0/BeerGlass-2019-)
-[![Twitter Follow](https://img.shields.io/twitter/url/https/github.com/shivamkapasia0/BeerGlass-2019-.svg?label=Follow%20Us&style=social)](https://twitter.com/shivaay0o7)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shivaay0o7.svg?style=social?label=Follow%20Us&style=social)](https://twitter.com/shivaay0o7)
 
 ---
 
