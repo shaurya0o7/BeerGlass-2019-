@@ -21,7 +21,7 @@ A full-of-features, easy-to-customize, free and open source, light-weight, Andro
 <img src="https://jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## Show some  :red_heart:
+## Show some  : red_heart:
 [![GitHub stars](https://img.shields.io/github/stars/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![GitHub forks](https://img.shields.io/github/forks/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 
