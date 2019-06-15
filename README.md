@@ -92,19 +92,7 @@ If you found this app/library helpful and want to thank me, you can:
 
 ## Special thanks 🙌
 
-- [Sherry Sabatine](http://www.ssabatinephotography.com/) 💵
-- [Allan Wang](https://www.allanwang.ca/) 💻
-- [James Fenn](https://theandroidmaster.github.io/) 🔌
-- [Maximilian Keppeler](https://twitter.com/maxKeppeler) 🔌
-- [Sasi Kanth](https://twitter.com/its_sasikanth) 🔌
-- [Alexandre Piveteau](https://github.com/alexandrepiveteau) 💻
-- [Lukas Koller](https://github.com/kollerlukas) 🔌
-- [Patryk Goworowski](https://twitter.com/pgoworowski) 🎨
-- [Lumiq Creative](https://lumiqcreative.com/) 🎨
-- [Jackson Hayes](https://jacksonhayes.xyz/) 📖
-- [Kevin Aguilar](https://twitter.com/kevttob) 🎨
-- [Eduardo Pratti](https://pratti.design/) 🎨
-- [Anthony Nguyen](https://twitter.com/link6155) 🎨
+- [Sachin Singh](https://www.instagram.com/sachin_rajput_977/) 💵
 
 ---
 
