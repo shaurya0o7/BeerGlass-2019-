@@ -45,7 +45,7 @@ height="350"/>
 ---
 
 # Features:
-*Material Design dashboard.
+- *Material Design dashboard.
 *App can work offline.
 *Free Hints for each Stage.
 *dynamic mechanism. Draw lines freely to complete levels!
