@@ -1,8 +1,8 @@
 # BeerGlass-2019-
 Android Game Powered By Unity Engine!
 <img src="https://lh3.googleusercontent.com/xYMAwYnd9kqInKLzleE4zvxfrrgQPe_-IqxThlAqE7FlQkDqGN_uvoI_ew9gQ4BXqkwc=s180-rw" width="192" align="right" hspace="20" />
-<img src="https://5.imimg.com/data5/RW/JX/MY-9623820/unity_zpsff18c569-500x500.png" height="60"/>
-
+==================================================
+==================================================
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![Issues](https://img.shields.io/github/issues/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![Build Status](https://travis-ci.org/jahirfiquitiva/Frames.svg?branch=master)](https://travis-ci.org/jahirfiquitiva/Frames)
