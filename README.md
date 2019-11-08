@@ -6,6 +6,11 @@ Android Game Powered By Unity Engine!
 ![API](https://img.shields.io/badge/API-16%2B-34bf49.svg)
 [![Issues](https://img.shields.io/github/issues/shivamkapasia0/BeerGlass-2019-.svg)](https://github.com/shivamkapasia0/BeerGlass-2019-)
 [![GitHub License](https://img.shields.io/github/license/shivamkapasia0/BeerGlass-2019-.svg)](https://travis-ci.org/jahirfiquitiva/Frames)
+ <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> <img src="https://img.shields.io/badge/Ask-me%20Anything%3F-brightgreen"> <img src="https://img.shields.io/badge/version-1.1.1-green"> <img src="https://img.shields.io/badge/apk%20size-~20mb-brightgreen"> <img src="https://img.shields.io/badge/Firebase%20auth-0.14.0-orange"> <img src="https://img.shields.io/badge/min%20sdk-16-green"> <img src="https://img.shields.io/badge/max%20sdk-28-green"> <img src="https://img.shields.io/badge/Android%20X-compatible-green"> <img src="https://img.shields.io/badge/open%20Source code-💖-green"> <img src="https://img.shields.io/badge/rx%20dart-0.22.1-orange"> <img src="https://img.shields.io/badge/ios-supported-green"> 
+
+
+<img src="https://img.shields.io/badge/follow%20me-shivaay0o7-orange.svg?style=for-the-badge&logo=instagram&link=https://www.instagram.com/shivaay0o7//left&link=https://www.instagram.com/shivaay0o7/"> <img src="https://img.shields.io/badge/follow%20me-shivamkapasia0-orange.svg?style=for-the-badge&logo=linkedin&link=https://www.instagram.com/shivamkapasia0//left&link=https://www.instagram.com/shivaay0o7/"> <img src="https://img.shields.io/badge/follow%20me-shivaay0o7-orange.svg?style=for-the-badge&logo=twitter&link=https://www.instagram.com/shivaay0o7//left&link=https://www.instagram.com/shivaay0o7/"> <img src="https://img.shields.io/badge/follow%20me-shivamkapasia-orange.svg?style=for-the-badge&logo=facebook&link=https://www.instagram.com/shivaay0o7//left&link=https://www.instagram.com/shivaay0o7/"> 
+<img src="https://img.shields.io/badge/support%20me-sk developer studios-orange.svg?style=for-the-badge&logo=googleplay&link=https://www.instagram.com/shivaay0o7//left&link=https://www.instagram.com/shivaay0o7/">
 
 
 A full-of-features, easy-to-customize, free and open source, light-weight, Android dashboard library to create wallpapers apps with almost-null effort.
